@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Ponle Stylo Web App**
 
-- 🌱 Actualmente estoy aprendiendo **React JS y Androt**
+- 🌱 Actualmente estoy aprendiendo **React JS y Android**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://www.cesar-hernandez-dev.com/](https://www.cesar-hernandez-dev.com/)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cesar javier sanchez hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cesar javier sanchez hernandez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cesar-javier-sanchez-hernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cesar javier sanchez hernandez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
